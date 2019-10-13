@@ -29,6 +29,9 @@ I used Font awesome.
 I took some inspiration from previous projects from the course.
 
 ###Process
+After some fustrated few days trying to understand AdobeXD to create the wireframes, I wrote them on paper as suggested by my menthor.
+That was my only interaction with my menthor as he never got back to me after I sent them the wireframes.
+
 I created the index page first and when I had it ready as a template for heading and footer I created the contact page.
 The contact page i taking a while to have the content fitting the background image or should I make the image to fit the content?
 This part is taking me a while to figure out.
