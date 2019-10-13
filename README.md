@@ -7,7 +7,7 @@ The website has the homepage as introduction of the concept.
 About us and contact page where the user can leave comments, feeback, etc.
 
 ###Images
-All images come from getty images and unsplash private accounts. 
+All images come from getty images (work account) and unsplash private account. 
 
 ###UX
 The user needs to find a tour that he or she likes and book it.
@@ -24,7 +24,7 @@ They have also an intro text above to explain the user what to expect.
 ####2. The about us and contact page are built with 2 block. Un with text explaining about the page and one with a form for the user to fill out to contact with a choice of specific reasons.
 
 ###Technologies 
-I used code from Bootstrap 4 and CSS editing.
+I used code from Bootstrap 4, HTML5 and CSS editing.
 I used Font awesome.
 I took some inspiration from previous projects from the course.
 
@@ -59,3 +59,6 @@ I must find my pace.
 ####13/10/10
 I mananged to finish the project but I'm not fully satisafied.
 As mentioned above there are some responsive issues I think I'll be able to solve them further along the line as I progress with the course.
+
+###Acknowledgments
+W3schools and FreeCodeCamp as well as documents from Bootstrap page have been very important at the time of finding my way around the code.
